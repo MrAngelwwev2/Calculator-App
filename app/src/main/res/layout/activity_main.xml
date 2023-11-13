@@ -39,7 +39,7 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:layout_alignParentBottom="true"
-        android:background="#F1F1F1"
+        android:background="#151414"
         android:paddingVertical="16dp"
         android:id="@+id/buttons_layout">
 
@@ -54,12 +54,12 @@
                 android:layout_height="72dp"
                 app:cornerRadius="36dp"
                 style="@style/Widget.MaterialComponents.ExtendedFloatingActionButton"
-                android:textSize="32dp"
+                android:textSize="20dp"
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
-                android:id="@+id/button_c"
+                android:id="@+id/btn_ac"
                 android:backgroundTint="#F44336"
-                android:text="C" />
+                android:text="AC" />
 
             <com.google.android.material.button.MaterialButton
                 android:layout_width="72dp"
@@ -115,6 +115,7 @@
                 android:layout_margin="12dp"
                 android:id="@+id/button_7"
                 android:text="7" />
+
 
             <com.google.android.material.button.MaterialButton
                 android:layout_width="72dp"
@@ -269,12 +270,12 @@
                 android:layout_height="72dp"
                 app:cornerRadius="36dp"
                 style="@style/Widget.MaterialComponents.ExtendedFloatingActionButton"
-                android:textSize="20dp"
+                android:textSize="32dp"
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
-                android:id="@+id/button_ac"
+                android:id="@+id/btn_c"
                 android:backgroundTint="#F44336"
-                android:text="AC" />
+                android:text="C" />
 
             <com.google.android.material.button.MaterialButton
                 android:layout_width="72dp"
