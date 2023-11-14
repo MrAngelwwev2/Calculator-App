@@ -57,7 +57,7 @@
                 android:textSize="20dp"
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
-                android:id="@+id/btn_ac"
+                android:id="@+id/btnAc"
                 android:backgroundTint="#F44336"
                 android:text="AC" />
 
@@ -69,7 +69,7 @@
                 android:textSize="32dp"
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
-                android:id="@+id/button_open_bracket"
+                android:id="@+id/btnAbreParentesis"
                 android:backgroundTint="#A1A1A1"
                 android:text="(" />
 
@@ -82,7 +82,7 @@
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
                 android:backgroundTint="#A1A1A1"
-                android:id="@+id/button_close_bracket"
+                android:id="@+id/btnCierraParentesis"
                 android:text=")" />
 
             <com.google.android.material.button.MaterialButton
@@ -93,7 +93,7 @@
                 android:textSize="32dp"
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
-                android:id="@+id/button_divide"
+                android:id="@+id/btnDivision"
                 android:backgroundTint="#FF9800"
                 android:text="/" />
 
@@ -113,7 +113,7 @@
                 android:textSize="32dp"
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
-                android:id="@+id/button_7"
+                android:id="@+id/btn7"
                 android:text="7" />
 
 
@@ -125,7 +125,7 @@
                 android:textSize="32dp"
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
-                android:id="@+id/button_8"
+                android:id="@+id/btn8"
                 android:text="8" />
 
             <com.google.android.material.button.MaterialButton
@@ -136,7 +136,7 @@
                 android:textSize="32dp"
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
-                android:id="@+id/button_9"
+                android:id="@+id/btn9"
                 android:text="9" />
 
             <com.google.android.material.button.MaterialButton
@@ -147,7 +147,7 @@
                 android:textSize="32dp"
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
-                android:id="@+id/button_multiply"
+                android:id="@+id/btnProducto"
                 android:backgroundTint="#FF9800"
                 android:text="*" />
 
@@ -167,7 +167,7 @@
                 android:textSize="32dp"
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
-                android:id="@+id/button_4"
+                android:id="@+id/btn4"
                 android:text="4" />
 
             <com.google.android.material.button.MaterialButton
@@ -178,7 +178,7 @@
                 android:textSize="32dp"
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
-                android:id="@+id/button_5"
+                android:id="@+id/btn5"
                 android:text="5" />
 
             <com.google.android.material.button.MaterialButton
@@ -189,7 +189,7 @@
                 android:textSize="32dp"
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
-                android:id="@+id/button_6"
+                android:id="@+id/btn6"
                 android:text="6" />
 
             <com.google.android.material.button.MaterialButton
@@ -200,7 +200,7 @@
                 android:textSize="32dp"
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
-                android:id="@+id/button_plus"
+                android:id="@+id/btnSuma"
                 android:backgroundTint="#FF9800"
                 android:text="+" />
 
@@ -220,7 +220,7 @@
                 android:textSize="32dp"
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
-                android:id="@+id/button_1"
+                android:id="@+id/btn1"
                 android:text="1" />
 
             <com.google.android.material.button.MaterialButton
@@ -231,7 +231,7 @@
                 android:textSize="32dp"
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
-                android:id="@+id/button_2"
+                android:id="@+id/btn2"
                 android:text="2" />
 
             <com.google.android.material.button.MaterialButton
@@ -242,7 +242,7 @@
                 android:textSize="32dp"
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
-                android:id="@+id/button_3"
+                android:id="@+id/btn3"
                 android:text="3" />
 
             <com.google.android.material.button.MaterialButton
@@ -253,7 +253,7 @@
                 android:textSize="32dp"
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
-                android:id="@+id/button_minus"
+                android:id="@+id/btnResta"
                 android:backgroundTint="#FF9800"
                 android:text="-" />
 
@@ -285,7 +285,7 @@
                 android:textSize="32dp"
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
-                android:id="@+id/button_0"
+                android:id="@+id/btn0"
                 android:text="0" />
 
             <com.google.android.material.button.MaterialButton
@@ -296,7 +296,7 @@
                 android:textSize="32dp"
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
-                android:id="@+id/button_dot"
+                android:id="@+id/btnPunto"
                 android:text="." />
 
             <com.google.android.material.button.MaterialButton
@@ -307,7 +307,7 @@
                 android:textSize="32dp"
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
-                android:id="@+id/button_equals"
+                android:id="@+id/btnIgual"
                 android:backgroundTint="#FF9800"
                 android:text="=" />
 
