@@ -7,10 +7,10 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/solution_tv"
+        android:id="@+id/tvSolucion"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_above="@id/result_tv"
+        android:layout_above="@id/tvResultado"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:layout_marginEnd="16dp"
@@ -20,7 +20,7 @@
         android:textSize="32dp" />
 
     <TextView
-        android:id="@+id/result_tv"
+        android:id="@+id/tvResultado"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_above="@id/buttons_layout"
@@ -273,7 +273,7 @@
                 android:textSize="32dp"
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
-                android:id="@+id/btn_c"
+                android:id="@+id/btnC"
                 android:backgroundTint="#F44336"
                 android:text="C" />
 
